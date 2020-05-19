@@ -27,4 +27,4 @@ Análise geográfica do avanço da pandemia de Covid-19
 
 ## Dados externos
 - [Boletim epidemiológico COVID-19 Cidade de São Paulo - 30 de abril de 2020](https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/saude/PMSP_SMS_COVID19_Boletim%20Quinzenal_20200430.pdf)
-[Geosampa](http://geosampa.prefeitura.sp.gov.br/PaginasPublicas/_SBC.aspx)
+- [Geosampa](http://geosampa.prefeitura.sp.gov.br/PaginasPublicas/_SBC.aspx)
