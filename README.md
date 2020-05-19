@@ -3,8 +3,11 @@
 *Dados e documentação produzidos pelo Laboratório Espaço Público e Direito à Cidade da Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo - [LabCidade FAUUSP](http://www.labcidade.fau.usp.br/)*
 
 **Equipe:** Aluízio Marino
+
 **Financiamento:** Fundação Ford
+
 **Data:** 30/04/2020, atualização quinzenal
+
 **Licença de compartilhamento:** CC Atribuição (CC BY 3.0 BR) (ver arquivo LICENÇA.txt)
 
 ## Conteúdo
