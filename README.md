@@ -8,7 +8,7 @@
 **Licença de compartilhamento:** CC Atribuição (CC BY 3.0 BR) (ver arquivo LICENÇA.txt)
 
 ## Conteúdo
-Dados georreferenciados sobre a morbidade relacionada à epidemia de Covid-19 por semana e por distrito do município de São Paulo 
+Dados georreferenciados sobre a morbidade relacionada à epidemia de Covid-19 por semana e por distrito do município de São Paulo. 
 
 São parte deste conjunto de dados:
 
