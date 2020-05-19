@@ -4,7 +4,7 @@
 
 **Equipe:** Aluízio Marino
 **Financiamento:** Fundação Ford
-**Data:** 21/04/2020, atualização quinzenal
+**Data:** 30/04/2020, atualização quinzenal
 **Licença de compartilhamento:** CC Atribuição (CC BY 3.0 BR) (ver arquivo LICENÇA.txt)
 
 ## Conteúdo
