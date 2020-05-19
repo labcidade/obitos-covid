@@ -1,6 +1,6 @@
 Óbitos por Covid-19 no município de São Paulo
 ============
-*Dados e documentação produzidos pelo Laboratório Espaço Público e Direito à Cidade da Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo - [LabCidade FAUUSP](http://www.labcidade.fau.usp.br/)*
+*Dados e documentação produzidos pelo [Instituto Pólis](https://polis.org.br/) e pelo Laboratório Espaço Público e Direito à Cidade da Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo - [LabCidade FAUUSP](http://www.labcidade.fau.usp.br/)*
 
 **Equipe:** Aluízio Marino (LabCidade), Vitor Nisida (Instituto Pólis) 
 **Financiamento:** Fundação Ford
