@@ -1,0 +1,19 @@
+Arquivo	Variável	Descrição
+SIRGAS_SHP_Obitos_COVID19.shp	ds_codigo	Código do distrito
+SIRGAS_SHP_Obitos_COVID19.shp	ds_nome	Nome do distrito
+SIRGAS_SHP_Obitos_COVID19.shp	OBT_0314	Óbitos suspeitos e confirmados por COVID-19 em 14 de março de 2020
+SIRGAS_SHP_Obitos_COVID19.shp	OBT_0321	Óbitos suspeitos e confirmados por COVID-19 em 21 de março de 2020
+SIRGAS_SHP_Obitos_COVID19.shp	OBT_0328	Óbitos suspeitos e confirmados por COVID-19 em 28 de março de 2020
+SIRGAS_SHP_Obitos_COVID19.shp	OBT_0404	Óbitos suspeitos e confirmados por COVID-19 em 04 de abril de 2020
+SIRGAS_SHP_Obitos_COVID19.shp	OBT_0411	Óbitos suspeitos e confirmados por COVID-19 em 11 de abril de 2020
+SIRGAS_SHP_Obitos_COVID19.shp	OBT_0418	Óbitos suspeitos e confirmados por COVID-19 em 18 de abril de 2020
+SIRGAS_SHP_Obitos_COVID19.shp	OBT_0421	Óbitos suspeitos e confirmados por COVID-19 em 21 de abril de 2020
+SIRGAS_SHP_Obitos_COVID19.shp	CRESCabslt	Crescimento absoluto no número de óbitos (em %)
+SIRGAS_SHP_Obitos_COVID19.shp	OBT0314pop	Óbitos suspeitos e confirmados por COVID-19 por 100 mil habitandes em 14 de março de 2020
+SIRGAS_SHP_Obitos_COVID19.shp	OBT0321pop	Óbitos suspeitos e confirmados por COVID-19 por 100 mil habitandes em 21 de março de 2020
+SIRGAS_SHP_Obitos_COVID19.shp	OBT0328pop	Óbitos suspeitos e confirmados por COVID-19 por 100 mil habitandes em 28 de março de 2020
+SIRGAS_SHP_Obitos_COVID19.shp	OBT0404pop	Óbitos suspeitos e confirmados por COVID-19 por 100 mil habitandes em 04 de abril de 2020
+SIRGAS_SHP_Obitos_COVID19.shp	OBT0411pop	Óbitos suspeitos e confirmados por COVID-19 por 100 mil habitandes em 11 de abril de 2020
+SIRGAS_SHP_Obitos_COVID19.shp	OBT0418pop	Óbitos suspeitos e confirmados por COVID-19 por 100 mil habitandes em 18 de abril de 2020
+SIRGAS_SHP_Obitos_COVID19.shp	OBT0421pop	Óbitos suspeitos e confirmados por COVID-19 por 100 mil habitandes em 21 de abril de 2020
+SIRGAS_SHP_Obitos_COVID19.shp	CRESCpop	Crescimento de óbitos por 100 mil habitantes (em %)
